@@ -90,7 +90,6 @@ export const DEVICES: Device[] = [
     id: "device-h",
     name: "FDS-10 NEO",
     svg: "/devices/fds-10-neo.svg",
-    appId: "padoHome",
     manualPath: {
       en: "/manuals/device-b-en.pdf",
       pt: "/manuals/device-b-pt.pdf",
@@ -112,7 +111,6 @@ export const DEVICES: Device[] = [
     id: "device-j",
     name: "FDS-50 PLUS",
     svg: "/devices/fds-50-plus.svg",
-    appId: "padoHome",
     manualPath: {
       en: "/manuals/fds_50_plus/Manual_FDS-50-ENG.pdf",
       pt: "/manuals/fds_50_plus/Manual_FDS-50-PORT.pdf",
