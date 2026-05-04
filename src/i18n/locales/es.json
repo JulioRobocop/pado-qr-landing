@@ -1,0 +1,20 @@
+{
+    "home": {
+        "tagline": "Bienvenido a Pado",
+        "selectDevice": "Selecciona tu nuevo dispositivo Pado"
+    },
+    "picker": {
+        "title": "Elige tu dispositivo"
+    },
+    "detail": {
+        "back": "← Volver",
+        "subtitle": "Configura tu nuevo dispositivo"
+    },
+    "download": {
+        "button": "Descargar Aplicación"
+    },
+    "manual": {
+        "button": "Leer el manual",
+        "unavailable": "Manual no disponible"
+    }
+}

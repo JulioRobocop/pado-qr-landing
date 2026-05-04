@@ -1,0 +1,20 @@
+{
+    "home": {
+        "tagline": "Welcome to Pado",
+        "selectDevice": "Select your Pado's new device"
+    },
+    "picker": {
+        "title": "Choose your device"
+    },
+    "detail": {
+        "back": "← Back",
+        "subtitle": "Get started with your new device"
+    },
+    "download": {
+        "button": "Download App"
+    },
+    "manual": {
+        "button": "Read the manual",
+        "unavailable": "Manual not available"
+    }
+}
