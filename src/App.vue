@@ -63,19 +63,16 @@ function goBackToPicker() {
 </template>
 
 <style>
-/* Initial state when entering: invisible and slightly down-and-right */
 .screen-enter-from {
   opacity: 0;
   transform: translateY(12px) scale(0.98);
 }
 
-/* Final state when leaving: same — fade out and drift slightly */
 .screen-leave-to {
   opacity: 0;
   transform: translateY(-12px) scale(0.98);
 }
 
-/* The animation curve, applied during both enter and leave */
 .screen-enter-active,
 .screen-leave-active {
   transition: opacity 250ms ease, transform 250ms ease;
