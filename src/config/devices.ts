@@ -91,9 +91,9 @@ export const DEVICES: Device[] = [
     name: "FDS-10 NEO",
     svg: "/devices/fds-10-neo.svg",
     manualPath: {
-      en: "/manuals/device-b-en.pdf",
-      pt: "/manuals/device-b-pt.pdf",
-      es: "/manuals/device-b-es.pdf",
+      en: "/manuals/fds_10_neo/manual_FDS-10_NEO_ENG.pdf",
+      pt: "/manuals/fds_10_neo/manual_FDS-10_NEO_PT.pdf",
+      es: "/manuals/fds_10_neo/manual_FDS-10_NEO_ESP.pdf",
     },
   },
   {
